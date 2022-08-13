@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u32yjtl9zLVBrO5G3CNrwkXJj2LVJnmCD7LhyUb5Fm8=",
+  "Source": "ExpoCenter.WebApi",
+  "BasePath": "_content/ExpoCenter.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
